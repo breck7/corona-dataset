@@ -1,0 +1,15 @@
+{
+  "name": "corona-dataset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jtree": "^49.8.0",
+    "moment": "^2.24.0"
+  }
+}
